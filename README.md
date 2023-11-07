@@ -1,3 +1,3 @@
 # Rexna15.github.io
 
-#Perkenalkan nama saya Muhamad Sulaiman
+Perkenalkan nama saya Muhamad Sulaiman
