@@ -1,0 +1,8 @@
+.hallo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FF0000; /* Merah */
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px #000000;
+  }
